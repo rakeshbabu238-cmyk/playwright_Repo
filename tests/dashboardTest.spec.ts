@@ -7,6 +7,7 @@ let url = 'https://rahulshettyacademy.com/client/#/auth/login';
 let username = 'rakeshbabu123@gmail.com';
 let password = 'Automation2020@';
 let invalidPassword = 'Automation';
+
 let productName = 'IPHONE 13 PRO';
 let loginPage: LoginPage;
 let dashboardPage: DashboardPage;
